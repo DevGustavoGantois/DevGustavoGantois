@@ -51,18 +51,27 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 ![DevGustavoGantois](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/) 👇 
 
+📞Caso queiram falar comigo profissionalmente.
+
+📞If you want to talk to me professionally.
 
 https://web.whatsapp.com/
 # +55 (71) 999588246
 
 ![https://www.linkedin.com/in/gustavo-caria-2839b5168/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/gustavo-caria-2839b5168/) 👇
 
+No meu Linkedin conto minha jornada na programação e mostro a minha evolução diariamente, também salvo todos meus certificados lá caso queiram ver😁📖🖥.
+
+On my Linkedin I tell my programming journey and show my evolution daily, I also save all my certificates there if you want to see😁📖🖥.
 
 https://www.linkedin.com/in/gustavo-caria-2839b5168/
 # Gustavo(DevGustavoGantois)Caria
 
 
-![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 👇
+![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
+📪Meu e-mail para contato como dito lá em cima.
+
+📪My contact email as mentioned above.
 
 https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 # gugagantois@gmail.com
