@@ -60,7 +60,7 @@ https://web.whatsapp.com/
 
 ![https://www.linkedin.com/in/gustavo-caria-2839b5168/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/gustavo-caria-2839b5168/) 👇
 
-No meu Linkedin conto minha jornada na programação e mostro a minha evolução diariamente, também salvo todos meus certificados lá caso queiram ver😁📖🖥.
+No meu Linkedin conto minha jornada na programação e mostro a minha evolução diariamente, também salvo todos meus certificados, lá caso queiram ver😁📖🖥.
 
 On my Linkedin I tell my programming journey and show my evolution daily, I also save all my certificates there if you want to see😁📖🖥.
 
