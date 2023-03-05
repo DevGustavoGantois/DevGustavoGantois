@@ -23,8 +23,7 @@ DevGustavoGantois
 
 📆 -Age - 19 years (Nineteen)
 
-### -----------------------------------------------------------------------------------------------------------------------
-
+# ------------------------------------------------------------------------------
 ### PORTUGUÊS⬜🟨🟩:
 
 ### SOBRE MIM 🙋‍♂️💡:
@@ -41,36 +40,29 @@ When I do something, or perform the function, I throw myself headlong and do my 
 
 I'm competitive not with others, but with myself, to always improve and be my best version every day. ✔🥇
 
-### ------------------------------------------------------------------------------------------------------------------------
-
-
-
-
-
+# ------------------------------------------------------------------------------
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGustavoGantois)](https://github.com/DevGustavoGantois/github-readme-stats)
 
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
 
-
-
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGustavoGantois&show_icons=true&theme=onedark)
 
-
-
-
-
 ### The informations in my bio of GitHub too:
-![DevGustavoGantois](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
-![https://www.linkedin.com/in/gustavo-caria-2839b5168/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
-![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
+
+![DevGustavoGantois](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=whitehttps://web.whatsapp.com/)
+
+# +55 (71) 999588246
+
+![https://www.linkedin.com/in/gustavo-caria-2839b5168/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=whitehttps://www.linkedin.com/in/gustavo-caria-2839b5168/)
+
+# Gustavo(DevGustavoGantois)Caria
 
 
+![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=whitehttps://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox) 
+# gugagantois@gmail.com
 
 
-
-
-
-### SOFT SKILLS🚀
+## SOFT SKILLS🚀
 
 
 
