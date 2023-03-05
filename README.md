@@ -1,7 +1,9 @@
 DevGustavoGantois
+# Hey there👋, Welcome to my Github Profile
+
 
 ### Em Português:🟩🟨🟦
-### Olá! Meu nome é Gustavo Gantois. Bem vindo ao meu perfil!
+### Olá! Meu nome é Gustavo Gantois.😁🖐
 
 🖥️ -Hoje eu estudo as linguagens de programação, estou me aventurando em PYTHON🤓🧠
 
@@ -12,7 +14,7 @@ DevGustavoGantois
 📆-idade - 19 anos (Dezenove)
 
  ### In english:🟥🟦
-### Hello! My name is Gustavo Gantois. Welcome to my profile!
+### Hello! My name is Gustavo Gantois.😁🖐
 🖥 - Today I study the lenguages of programmation, i´m venturing into PYTHON🤓🧠
 
 📪- Contact in my e-mail: gugagantois@gmail.com
@@ -21,7 +23,7 @@ DevGustavoGantois
 
 📆 -Age - 19 years (Nineteen)
 
-### -----------------------------------------------------------------------------------------------------------------------------
+### -----------------------------------------------------------------------------------------------------------------------
 
 ### PORTUGUÊS⬜🟨🟩:
 
@@ -39,7 +41,7 @@ When I do something, or perform the function, I throw myself headlong and do my 
 
 I'm competitive not with others, but with myself, to always improve and be my best version every day. ✔🥇
 
-### -----------------------------------------------------------------------------------------------------------------------------
+### ------------------------------------------------------------------------------------------------------------------------
 
 
 
@@ -57,7 +59,7 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 
 
-### The informations in my bio of GitHub:
+### The informations in my bio of GitHub too:
 ![DevGustavoGantois](https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white)
 ![https://www.linkedin.com/in/gustavo-caria-2839b5168/](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)
 ![https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)
