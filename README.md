@@ -5,7 +5,7 @@ DevGustavoGantois
 ### Em Português:🟩🟨🟦
 ### Olá! Meu nome é Gustavo Gantois.😁🖐
 
-🖥️ -Hoje eu estudo as linguagens de programação, estou me aventurando em PYTHON🤓🧠
+🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando em PYTHON e em HTML🤓🧠
 
 📪 -Contate-me no meu e-mail!: gugagantois@gmail.com
 
@@ -15,7 +15,7 @@ DevGustavoGantois
 
  ### In english:🟥🟦
 ### Hello! My name is Gustavo Gantois.😁🖐
-🖥 - Today I study the lenguages of programmation, i´m venturing into PYTHON🤓🧠
+🖥 - At the moment I study the lenguages of programmation, i´m venturing into PYTHON and HTML🤓🧠
 
 📪- Contact in my e-mail: gugagantois@gmail.com
 
