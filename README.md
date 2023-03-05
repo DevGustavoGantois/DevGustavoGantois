@@ -69,7 +69,6 @@ https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 
 
 ## SOFT SKILLS🚀🔥
-
 ### Languages:
 ![DevGustavoGantois](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
 ### Web Development:
