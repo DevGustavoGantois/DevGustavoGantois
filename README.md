@@ -73,7 +73,6 @@ https://www.linkedin.com/in/gustavo-caria-2839b5168/
 
 📪My contact email as mentioned above.
 
-https://mail.google.com/mail/u/0/?tab=rm&ogbl#inbox
 # gugagantois@gmail.com
 
 
