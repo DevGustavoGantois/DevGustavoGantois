@@ -1,7 +1,7 @@
 DevGustavoGantois
-# Hey there👋, Welcome to my Github Profile
+# Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
-
+ 
 ### Em Português:🟩🟨🟦
 ### Olá! Meu nome é Gustavo Gantois.😁🖐
 
