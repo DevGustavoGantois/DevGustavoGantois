@@ -55,6 +55,7 @@ I'm competitive not with others, but with myself, to always improve and be my be
 
 📞If you want to talk to me professionally.
 
+
 https://web.whatsapp.com/
 # +55 (71) 999588246
 
@@ -74,6 +75,13 @@ https://www.linkedin.com/in/gustavo-caria-2839b5168/
 📪My contact email as mentioned above.
 
 # gugagantois@gmail.com
+
+
+### My instagram:
+
+
+<a href="https://instagram.com/gustavogantois_" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
+
 
 
 ## SOFT SKILLS🚀🔥
