@@ -41,9 +41,8 @@ When I do something, or perform the function, I throw myself headlong and do my 
 I'm competitive not with others, but with myself, to always improve and be my best version every day. ✔🥇
 
 # ------------------------------------------------------------------------
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DevGustavoGantois)](https://github.com/DevGustavoGantois/github-readme-stats)
+![Gustavo's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGustavoGantois&show_icons=true&theme=gruvbox)
 <img src="https://user-images.githubusercontent.com/89788120/167628634-549d2bdd-609e-4275-85af-1e1974da64ca.gif" width="30%" align="right" />
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=DevGustavoGantois&show_icons=true&theme=onedark)
 
 ### The informations in my bio of GitHub too:
 
