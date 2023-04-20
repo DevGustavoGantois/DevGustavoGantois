@@ -9,7 +9,7 @@ DevGustavoGantois
 
 📪 -Contate-me no meu e-mail!: gugagantois@gmail.com
 
-🙃- Pronomes - Ele/Dela
+🙃- Pronomes - Ele/Delas
 
 📆-idade - 19 anos (Dezenove)
 
