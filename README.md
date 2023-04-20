@@ -19,7 +19,7 @@ DevGustavoGantois
 
 📪- Contact in my e-mail: gugagantois@gmail.com
 
-🙃 - Pronouns - He/Her
+🙃 - Pronouns - He/Hers
 
 📆 -Age - 19 years (Nineteen)
 
