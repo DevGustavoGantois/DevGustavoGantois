@@ -21,7 +21,7 @@ DevGustavoGantois
 
 🙃 - Pronouns - He/Hers
 
-📆 -Age - 19 years (Nineteen)
+📆 -Age - 20 years (Twenty)
 
 # ------------------------------------------------------------------------
 ### PORTUGUÊS⬜🟨🟩:
