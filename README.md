@@ -11,7 +11,7 @@ DevGustavoGantois
 
 🙃- Pronomes - Ele/Delas
 
-📆-idade - 19 anos (Dezenove)
+📆-idade - 20 anos (Vinte)
 
  ### In english:🟥🟦
 ### Hello! My name is Gustavo Gantois.😁🖐
