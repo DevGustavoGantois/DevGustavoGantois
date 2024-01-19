@@ -5,21 +5,17 @@ DevGustavoGantois
 ### Em Português:🟩🟨🟦
 ### Olá! Meu nome é Gustavo Gantois.😁🖐
 
-🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando nela e curtindo pra caramba. Eu estou aprendendo linguagem REACT!🤓🧠
+🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando nela e curtindo pra caramba. Eu estou aprendendo linguagem Python e REACT!🤓🧠
 
 📪 -Contate-me no meu e-mail!: gugagantois@gmail.com
-
-🙃- Pronomes - Ele/Delas
 
 📆-idade - 20 anos (Vinte)
 
  ### In english:🟥🟦
 ### Hello! My name is Gustavo Gantois.😁🖐
-🖥 - At the moment I study the lenguages of programmation, i´m venturing into PYTHON, JS, HTML and CSS. I´m learning the REACT language!🤓🧠
+🖥 - At the moment I study the lenguages of programmation, i´m venturing into PYTHON, JS, HTML and CSS. I´m learning the REACT and Python language!🤓🧠
 
 📪- Contact in my e-mail: gugagantois@gmail.com
-
-🙃 - Pronouns - He/Hers
 
 📆 -Age - 20 years (Twenty)
 
