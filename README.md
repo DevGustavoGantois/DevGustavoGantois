@@ -1,7 +1,6 @@
 DevGustavoGantois
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
-<button><a href="deluxe-bavarois-7a28cb.netlify.app" alt="MeuPortifolio" target="_blank"</a></button>
  
 ### Em Português:🟩🟨🟦
 ### Olá! Meu nome é Gustavo Gantois.😁🖐
