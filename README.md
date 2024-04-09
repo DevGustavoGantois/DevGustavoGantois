@@ -2,7 +2,7 @@ DevGustavoGantois
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <button><a href="https://DevGustavoGantois.github.io" target=" _blank">Acesse meu Website </a></button>
+  <a href="https://DevGustavoGantois.github.io" target=" _blank">Acesse meu Website </a>
 </p>
  
 ### Em Português:🟩🟨🟦
