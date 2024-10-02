@@ -12,7 +12,7 @@ DevGustavoGantois
 
 📪 -Contate-me no meu e-mail!: gugagantois@gmail.com
 
-📆-idade - 20 anos (Vinte)
+📆-idade - 21 anos (Vinte e um)
 
  ### In english:🟥🟦
 
@@ -25,7 +25,7 @@ DevGustavoGantois
 
 📪- Contact in my e-mail: gugagantois@gmail.com
 
-📆 -Age - 20 years (Twenty)
+📆 -Age - 21 years (Twenty One)
 
 # ------------------------------------------------------------------------
 ### PORTUGUÊS⬜🟨🟩:
