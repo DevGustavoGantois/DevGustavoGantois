@@ -8,7 +8,7 @@ DevGustavoGantois
 ### Em Português:🟩🟨🟦
 ### Olá! Meu nome é Gustavo Gantois.😁🖐
 
-🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando nela e curtindo pra caramba. Eu estou aprendendo REACT e Tailwind!🤓🧠
+🖥️ -Atualmente estudo as linguagens de programação, estou me aventurando nela e curtindo pra caramba. Eu estou aprendendo REACT | NEXT e Tailwind!🤓🧠
 
 📪 -Contate-me no meu e-mail!: gugagantois@gmail.com
 
@@ -21,7 +21,7 @@ DevGustavoGantois
 </p>
 
 ### Hello! My name is Gustavo Gantois.😁🖐
-🖥 - At the moment I study the lenguages of programmation, i´m venturing into PYTHON, JS, HTML and CSS. I´m learning the REACT and Tailwind!🤓🧠
+🖥 - At the moment I study the lenguages of programmation, i´m venturing into PYTHON, JS, HTML and CSS. I´m learning the REACT | NEXT and Tailwind!🤓🧠
 
 📪- Contact in my e-mail: gugagantois@gmail.com
 
