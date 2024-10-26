@@ -2,7 +2,7 @@ DevGustavoGantois
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <a href="https://my-new-freelance-portfolio-devgustavogantois.vercel.app/" target=" _blank">Acesse meu Website </a>
+  <a href="[https://my-new-freelance-portfolio-devgustavogantois.vercel.app/](https://devgustavogantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaYYFlb2aWnjToP_8jmpK17cmmV1WIvpfjcDOx961f8LzfluJ0Aw-BVfV0Q_aem_44I02vKiAGWQdSwt1NvV_w)" target=" _blank">Acesse meu Website </a>
 </p>
  
 ### Em Português:🟩🟨🟦
@@ -17,7 +17,7 @@ DevGustavoGantois
  ### In english:🟥🟦
 
  <p>
-  <button><a href="https://my-new-freelance-portfolio-devgustavogantois.vercel.app/" target=" _blank">Acess my Website </a></button>
+  <button><a href="[https://my-new-freelance-portfolio-devgustavogantois.vercel.app/](https://devgustavogantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaYYFlb2aWnjToP_8jmpK17cmmV1WIvpfjcDOx961f8LzfluJ0Aw-BVfV0Q_aem_44I02vKiAGWQdSwt1NvV_w)" target=" _blank">Acess my Website </a></button>
 </p>
 
 ### Hello! My name is Gustavo Gantois.😁🖐
