@@ -2,7 +2,7 @@ DevGustavoGantois
 # Hey there👋, Welcome to my Github Profile ༼ つ ◕_◕ ༽つ 
 
 <p>
-  <a href="https://gc-technology.vercel.app/" target=" _blank">Acesse meu Website </a>
+  <a href="https://gc-technology.vercel.app/](https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag" target=" _blank">Acesse meu Website </a>
 </p>
  
 ### Em Português:🟩🟨🟦
@@ -17,7 +17,7 @@ DevGustavoGantois
  ### In english:🟥🟦
 
  <p>
-  <button><a href="https://gc-technology.vercel.app/" target=" _blank">Acess my Website </a></button>
+  <button><a href="https://gc-technology.vercel.app/](https://portfolio-dev-gustavo-gantois.vercel.app/?fbclid=PAZXh0bgNhZW0CMTEAAaegYkZtkgs8AtO0GIOTauXUq5bQaGK2Np2UTD2Y6chnIdtOedWqiAp8ko-eqg_aem_GoD20I807X6MB5iqylPdag" target=" _blank">Acess my Website </a></button>
 </p>
 
 ### Hello! My name is Gustavo Gantois.😁🖐
